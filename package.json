@@ -1,0 +1,12 @@
+{
+  "name": "scribbles",
+  "version": "1.0.0",
+  "description": "A little experiment in exploring the difference ways to collect and push content to various publishing APIs. The idea is to think about my preferred workflow (especially with devrel content), and how best to both publish and maintain a library of content. Potentially with some data such as reader stats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
