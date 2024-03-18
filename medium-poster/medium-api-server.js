@@ -3,6 +3,8 @@ const app = express();
 const fetch = require('node-fetch');
 const fs = require('fs');
 
+// This is a basic script to push to Medium specifically.
+
 // Middleware to parse incoming request bodies
 app.use(express.json());
 
